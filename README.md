@@ -1,6 +1,6 @@
 ### How To Use
 
-Add this step into workflow
+Add this step into workflow 1
 
 ```
     - name: Set up Maven
